@@ -1,5 +1,5 @@
 {
-  "name": "@swyftpain/sp-api-functions",
+  "name": "sp-api-functions",
   "version": "1.0.4",
   "description": "Some potentially useful API functions that may be more frequently used. At the moment, it consists only of OpenAI API.",
   "main": "index.js",
@@ -13,9 +13,6 @@
   "funding": {
     "type": "paypal",
     "url": "https://www.paypal.com/paypalme/mrjohnnyjo"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/swyftpain"
   },
   "dependencies": {
     "openai": "^3.1.0"
