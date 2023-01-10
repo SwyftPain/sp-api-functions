@@ -1,6 +1,6 @@
 {
   "name": "sp-api-functions",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Some potentially useful API functions that may be more frequently used. At the moment, it consists only of OpenAI API.",
   "main": "index.js",
   "scripts": {
